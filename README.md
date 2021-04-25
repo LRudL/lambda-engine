@@ -7,4 +7,4 @@ See [here](https://strataoftheworld.blogspot.com/2021/04/lambda-calculus.html) t
 
 - If you don't have it already, get Racket. The simplest way is to download the language+IDE from [here](https://racket-lang.org/).
 - Download the files in this repository.
-- Use the functions in `main.rkt` to evaluate lambda calculus temrs (e.g. `lce`, a simple lambda calculus evaluator that does not print steps and that gives interpretations of terms when it can, instead of displaying the full mess of lambdas).
+- Use the functions in `main.rkt` to evaluate lambda calculus terms (e.g. `lce`, a simple lambda calculus evaluator that does not print steps and that gives interpretations of terms when it can, instead of displaying the full mess of lambdas).
